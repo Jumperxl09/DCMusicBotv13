@@ -1,0 +1,10 @@
+{
+    "activity": {
+        "name": "*help",
+        "type": "PLAYING"
+    },
+    "status": "dnd",
+
+    "mainPrefix": "*",
+    "mainLang": "en"
+}
